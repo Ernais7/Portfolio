@@ -1,0 +1,117 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour",
+      "description": "👋 Je suis Tony Bruno. Une personne fictive à des fins d'aperçu :) Je travaille avec les derniers frameworks front-end comme Angular, React et Vue. Ce que vous voyez maintenant est un modèle de portfolio de Ernais7. Si vous aimez ce modèle de portfolio, assurez-vous de ⭐ le référentiel pour le rendre plus reconnaissable pour les autres utilisateurs. Merci 💜",
+      "section_name": {
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Refuge pour animaux",
+        "startDate": "2020",
+        "description": "L'application la plus étendue avec laquelle j'ai eu l'occasion de travailler. J'ai appris de nombreuses technologies et mon code a été examiné par un conservateur génial. L'application gère toute l'adoption traite et permet de stocker toutes les preuves sur l'adoption d'animaux provenant de refuges pour animaux.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photographie",
+        "startDate": "2018",
+        "description": "Projet personnel pour sujet d'étude. J'étais responsable du test d'une application de photographie qui optimise les images avec des algorithmes populaires utilisés par des éditeurs graphiques comme Pixlr ou Adobe Photoshop. J'ai obtenu la note A :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "L'une des premières applications sur lesquelles j'ai travaillé pendant mon stage. J'ai dû développer une implémentation front-end pour une application qui montre des modèles 3D de bâtiments connus. C'était également mon premier projet dans le framework Angular. J'ai beaucoup appris !",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OpenClassrooms",
+        "title": "Intégrateur web",
+        "years": "02.2024 - 11.2024",
+        "mainTech": [
+          "JavaScript, React, Node.js"
+        ],
+        "technologies": [
+          "REST API",
+          "React frameworks",
+          "JavaScript",
+          "Bootstrap",
+          "MongoDB",
+          "Node.js",
+          "Sass",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stażystka",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
