@@ -15,8 +15,8 @@
         "startDate": "Février 2024",
         "description": "Premier projet qui consistait à mettre à jour la page internet de Riding Cities, une association sportive qui promeut le skate en région. C'est grâce à ce projet que j'ai découvert le langage HTML.",
         "images": [
-          "/portfolio/images/portfolio/RidingCities/p1.jpg",
-          "/portfolio/images/portfolio/RidingCities/p2.jpg"
+          "images/portfolio/RidingCities/p1.jpg",
+          "images/portfolio/RidingCities/p2.jpg"
         ],
         "url": "https://ernais7.github.io/Riding-Cities/",
         "technologies": [
@@ -31,8 +31,8 @@
         "startDate": "Mars 2024",
         "description": "Booki est un site internet qui permet aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix. C'est en intégrant l'interface du site que j'ai pu découvrir le langage CSS.",
         "images": [
-          "/portfolio/images/portfolio/Booki/p1.jpg",
-          "/portfolio/images/portfolio/Booki/p2.jpg"
+          "images/portfolio/Booki/p1.jpg",
+          "images/portfolio/Booki/p2.jpg"
         ],
         "url": "https://ernais7.github.io/Booki/",
         "technologies": [
@@ -51,8 +51,8 @@
         "startDate": "Mai 2024",
         "description": "Avec Ohmyfood, les utilisateurs peuvent composer le menu de leurs repas et dire adieu aux temps d'attente dans les restaurants. J'ai également créé des animations CSS pour rendre l'expérience utilisateur encore plus agréable. De plus, le site est responsive sur smartphone et tablette !",
         "images": [
-          "/portfolio/images/portfolio/Ohmyfood/p1.jpg",
-          "/portfolio/images/portfolio/Ohmyfood/p2.jpg"
+          "images/portfolio/Ohmyfood/p1.jpg",
+          "images/portfolio/Ohmyfood/p2.jpg"
         ],
         "url": "https://ernais7.github.io/Ohmyfood/",
         "technologies": [
@@ -75,8 +75,8 @@
         "startDate": "Mai 2024",
         "description": "Print it est une petite imprimerie familiale qui souhaitait ajouter un carrousel à son site web. C'est grâce à ce projet que j'ai découvert le langage JavaScript et pu mettre en œuvre cette fonctionnalité.",
         "images": [
-          "/portfolio/images/portfolio/PrintIt/p1.jpg",
-          "/portfolio/images/portfolio/PrinIt/p2.jpg"
+          "images/portfolio/PrintIt/p1.jpg",
+          "images/portfolio/PrinIt/p2.jpg"
         ],
         "url": "https://ernais7.github.io/Print-it/",
         "technologies": [
@@ -91,8 +91,8 @@
         "startDate": "Juillet 2024",
         "description": "Voici le portfolio d’une architecte d’intérieur pour lequel j’ai créé une galerie de projets avec un système de filtres, une page de connexion pour l’administrateur, ainsi qu’une modale permettant d’ajouter et de supprimer des projets.",
         "images": [
-          "/portfolio/images/portfolio/SophieBluel/p1.jpg",
-          "/portfolio/images/portfolio/SophieBluel/p2.jpg"
+          "images/portfolio/SophieBluel/p1.jpg",
+          "images/portfolio/SophieBluel/p2.jpg"
         ],
         "url": "https://github.com/Ernais7/Portfolio-Sophie-Bluel",
         "technologies": [
@@ -115,8 +115,8 @@
         "startDate": "Août 2024",
         "description": "L'objectif de cette entreprise de location d'appartements était de refondre entièrement leur site en utilisant JavaScript, avec Node.js pour le back-end et React pour le front-end.",
         "images": [
-          "/portfolio/images/portfolio/Kasa/p1.jpg",
-          "/portfolio/images/portfolio/Kasa/p2.jpg"
+          "images/portfolio/Kasa/p1.jpg",
+          "images/portfolio/Kasa/p2.jpg"
         ],
         "url": "https://github.com/Ernais7/Kasa",
         "technologies": [
@@ -143,8 +143,8 @@
         "startDate": "Septembre 2024",
         "description": "Pour Nina Carducci, une optimisation du référencement local et des performances du site était essentielle. J'ai donc pris en charge l'amélioration du SEO, l'optimisation des performances techniques et la mise en place d'audits Lighthouse et de Rich Snippets pour renforcer la visibilité et la rapidité du site.",
         "images": [
-          "/portfolio/images/portfolio/Nina/p1.jpg",
-          "/portfolio/images/portfolio/Nina/p2.jpg"
+          "images/portfolio/Nina/p1.jpg",
+          "images/portfolio/Nina/p2.jpg"
         ],
         "url": "https://ernais7.github.io/NinaCarducci/",
         "technologies": [
@@ -163,8 +163,8 @@
         "startDate": "Septembre 2024",
         "description": "Cette entreprise rencontrait des problèmes sur son site, notamment au niveau du carrousel et du système de filtrage de leurs réalisations. J'ai corrigé ces dysfonctionnements en utilisant React et JavaScript.",
         "images": [
-          "/portfolio/images/portfolio/724/p1.jpg",
-          "/portfolio/images/portfolio/724/p2.jpg"
+          "images/portfolio/724/p1.jpg",
+          "images/portfolio/724/p2.jpg"
         ],
         "url": "https://github.com/Ernais7/724-events",
         "technologies": [
@@ -183,8 +183,8 @@
         "startDate": "Octobre 2024",
         "description": "Je dirais que celui-ci est mon plus gros projet à ce jour : la création d'une application bancaire permettant aux utilisateurs de se connecter et de gérer leurs comptes. Ce projet m'a également permis de découvrir la bibliothèque Redux et la documentation Swagger.",
         "images": [
-          "/portfolio/images/portfolio/Bank/p1.jpg",
-          "/portfolio/images/portfolio/Bank/p2.jpg"
+          "images/portfolio/Bank/p1.jpg",
+          "images/portfolio/Bank/p2.jpg"
         ],
         "url": "https://github.com/Ernais7/ArgentBank",
         "technologies": [
