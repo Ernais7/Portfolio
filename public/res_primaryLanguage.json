@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I am Tony Bruno, a curious and motivated individual, always seeking new challenges. My journey has led me to specialize in technologies such as React, JavaScript, and HTML5/CSS3, as well as tools like Redux and MongoDB. Beyond technical skills, I make it a priority to understand user needs and provide tailored and effective solutions.😊",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,43 +11,75 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Riding Cities",
+        "startDate": "February 2024",
+        "description": "First project involved updating the website of Riding Cities, a sports association that promotes skateboarding in the region. It is thanks to this project that I discovered HTML.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "/portfolio/images/portfolio/RidingCities/p1.jpg",
+          "/portfolio/images/portfolio/RidingCities/p2.jpg"
         ],
-        "url": "",
+        "url": "https://ernais7.github.io/Riding-Cities/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Booki",
+        "startDate": "March 2024",
+        "description": "Booki is a website that allows users to find accommodations and activities in the city of their choice. It was by integrating the website's interface that I was able to discover CSS.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "/portfolio/images/portfolio/Booki/p1.jpg",
+          "/portfolio/images/portfolio/Booki/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://ernais7.github.io/Booki/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Ohmyfood",
+        "startDate": "May 2024",
+        "description": "With Ohmyfood, users can create their meal menus and say goodbye to wait times at restaurants. I also created CSS animations to make the user experience even more enjoyable. Additionally, the site is responsive on smartphones and tablets !",
+        "images": [
+          "/portfolio/images/portfolio/Ohmyfood/p1.jpg",
+          "/portfolio/images/portfolio/Ohmyfood/p2.jpg"
+        ],
+        "url": "https://ernais7.github.io/Ohmyfood/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SASS"
+          }
+        ]
+      },
+      {
+        "title": "Print it",
+        "startDate": "May 2024",
+        "description": "Print it is a small family-owned printing shop that wanted to add a carousel to its website. It is thanks to this project that I discovered JavaScript and was able to implement this feature.",
+        "images": [
+          "/portfolio/images/portfolio/PrintIt/p1.jpg",
+          "/portfolio/images/portfolio/PrinIt/p2.jpg"
+        ],
+        "url": "https://ernais7.github.io/Print-it/",
+        "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,63 +87,167 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Sophie Bluel",
+        "startDate": "July 2024",
+        "description": "Here is the portfolio of an interior designer for which I created a project gallery with a filtering system, an admin login page, and a modal to add and delete projects.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/portfolio/images/portfolio/SophieBluel/p1.jpg",
+          "/portfolio/images/portfolio/SophieBluel/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Ernais7/Portfolio-Sophie-Bluel",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Kasa",
+        "startDate": "August 2024",
+        "description": "The goal of this apartment rental company was to completely rebuild their website using JavaScript, with Node.js for the back-end and React for the front-end.",
+        "images": [
+          "/portfolio/images/portfolio/Kasa/p1.jpg",
+          "/portfolio/images/portfolio/Kasa/p2.jpg"
+        ],
+        "url": "https://github.com/Ernais7/Kasa",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SASS"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "September 2024",
+        "description": "For Nina Carducci, optimizing local SEO and site performance was essential. I took charge of improving SEO, enhancing technical performance, and implementing Lighthouse audits and Rich Snippets to boost the site's visibility and efficiency.",
+        "images": [
+          "/portfolio/images/portfolio/Nina/p1.jpg",
+          "/portfolio/images/portfolio/Nina/p2.jpg"
+        ],
+        "url": "https://ernais7.github.io/NinaCarducci/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "724 Events",
+        "startDate": "September 2024",
+        "description": "This company faced issues on its website, particularly with the carousel and the filtering system for their projects. I resolved these problems using React and JavaScript.",
+        "images": [
+          "/portfolio/images/portfolio/724/p1.jpg",
+          "/portfolio/images/portfolio/724/p2.jpg"
+        ],
+        "url": "https://github.com/Ernais7/724-events",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Argent Bank",
+        "startDate": "October 2024",
+        "description": "I would say this is my biggest project to date: the creation of a banking application allowing users to log in and manage their accounts. This project also gave me the opportunity to discover the Redux library and Swagger documentation.",
+        "images": [
+          "/portfolio/images/portfolio/Bank/p1.jpg",
+          "/portfolio/images/portfolio/Bank/p2.jpg"
+        ],
+        "url": "https://github.com/Ernais7/ArgentBank",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-swagger-plain",
+            "name": "Swagger"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Jardinerie d'Orgeval",
+        "title": "Landscape Gardener",
+        "years": "08.2021 - 08.2023",
+        "icon": "fas fa-leaf",
         "mainTech": [
-          "Angular 8/9/10"
+          "Garden Maintenance"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Planting",
+          "Team Cohesion",
+          "Maintenance",
+          "Mowing",
+          "Shrub Pruning"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "OpenClassrooms",
+        "title": "Web integrator",
+        "years": "02.2024 - 11.2024",
+        "icon": "fab fa-js",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript, React, Node.js"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "REST API",
+          "React frameworks",
           "JavaScript",
-          "DHTMLX Gantt"
+          "MongoDB",
+          "Node.js",
+          "Sass",
+          "GitHub"
         ]
       }
     ]
