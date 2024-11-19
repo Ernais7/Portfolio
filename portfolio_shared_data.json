@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Tony Bruno",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "titles": [ "Front-end Developer", "Web Integrator", "Responsive Design" ],
       "social": [
         {
           "name": "github",
@@ -41,7 +41,7 @@
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "65"
         },
         {
           "name": "Sass",
@@ -49,19 +49,34 @@
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "GitHub",
+          "class": "devicon-github-plain",
           "level": "85"
         },
         {
           "name": "Node.js",
           "class": "devicon-nodejs-plain",
-          "level": "65"
+          "level": "60"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Vscode",
+          "class": "devicon-vscode-plain",
+          "level": "90"
+        },
+        {
+          "name": "Swagger",
+          "class": "devicon-swagger-plain",
+          "level": "90"
+        },
+        {
+          "name": "YAML",
+          "class": "devicon-yaml-plain",
+          "level": "95"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain",
+          "level": "80"
         }
       ]
     }
